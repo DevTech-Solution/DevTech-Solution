@@ -64,7 +64,3 @@ Je suis toujours à la recherche de nouveaux défis pour améliorer mes compéte
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTech-Solution&theme=github_dark" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTech-Solution&layout=compact&langs_count=6&hide=ts,scss" alt="Top Languages" />
-</p>
