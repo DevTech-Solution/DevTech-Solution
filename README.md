@@ -1,8 +1,9 @@
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/status-active-brightgreen.svg" />
 </p>
-
-# Welcome - Bienvenue 👋
+<div align="center">
+<h1>Welcome - Bienvenue 👋</h1>
+</div>
 
 🇬🇧 I’m a passionate developer focused on web and modern technologies.  
 🇫🇷 Je suis un développeur passionné par le web et les technologies modernes.
