@@ -60,7 +60,3 @@ Je suis toujours à la recherche de nouveaux défis pour améliorer mes compéte
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevTech-Solution&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTech-Solution&theme=github_dark" alt="GitHub Streak" />
-</p>
