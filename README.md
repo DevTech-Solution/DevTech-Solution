@@ -43,6 +43,14 @@ Mon expertise s’étend sur plusieurs langages et outils, notamment :
   🇬🇧 Automation and system management (mostly on Windows)  
   🇫🇷 Automatisation et gestion de systèmes (principalement sur Windows)  
 
+- <img src="https://img.icons8.com/fluency/48/windows-10.png" alt="Windows Forms" width="24"/> **Windows Forms**  
+  🇬🇧 Rapid GUI development for tools using .NET Forms  
+  🇫🇷 Développement rapide d’interfaces graphiques avec Windows Forms  
+
+- <img src="https://img.icons8.com/color/48/windows-client.png" alt="WPF" width="24"/> **WPF (Windows Presentation Foundation)**  
+  🇬🇧 Modern GUI with XAML support for richer interfaces  
+  🇫🇷 Interfaces modernes avec support de XAML pour une UX enrichie  
+
 ---
 
 ## 🧑‍💻 About Me / À propos de moi
