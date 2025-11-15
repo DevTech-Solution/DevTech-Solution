@@ -30,33 +30,14 @@ Mon expertise s’étend sur plusieurs langages et outils, notamment :
 - <img src="https://img.icons8.com/color/48/000000/powershell.png" width="24"/> **PowerShell**
 
 ### 🪟 Desktop Development (.NET)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> **C# (.NET)**  
 - <img src="https://img.icons8.com/color/48/windows-client.png" width="24"/> **WPF**  
 - <img src="https://img.icons8.com/fluency/48/windows-10.png" width="24"/> **Windows Forms**
 
----
-
-## 📌 Technologies used for my Outlook Add-in “ChercheDossier”
-## 📌 Technologies utilisées pour mon add-in Outlook “ChercheDossier”
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> **C# (.NET)**  
-  🇬🇧 Main language for business logic, folder parsing, file management  
-  🇫🇷 Langage principal pour la logique, gestion des dossiers et traitement interne
-
-- <img src="https://img.icons8.com/fluency/48/microsoft.png" width="24"/> **VSTO (Visual Studio Tools for Office)**  
-  🇬🇧 Framework used to build the Outlook ribbon and UI integrations  
-  🇫🇷 Utilisé pour développer le ruban Outlook et les intégrations UI
-
-- <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="24"/> **Outlook Interop**  
-  🇬🇧 Interaction with Outlook folders, favorites, search engine  
-  🇫🇷 Interaction avec les dossiers Outlook, favoris et le moteur de recherche
-
+### 🧩 Additional Tools / Outils complémentaires
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> **Git / GitHub**  
-  🇬🇧 Versioning and stable/dev branches  
-  🇫🇷 Gestion des versions et branches stable/dev
-
-- 🧩 **JSON Data Handling**  
-  🇬🇧 Used to store favorites and user configuration  
-  🇫🇷 Utilisé pour stocker les favoris et la configuration utilisateur
+- 🧩 **JSON** (data handling)  
+- 🧰 **VSTO** (Visual Studio Tools for Office)  
 
 ---
 
