@@ -10,7 +10,7 @@
 
 My expertise covers several languages and tools, including  
 Mon expertise s’étend sur plusieurs langages et outils, notamment :  
-**HTML**, **CSS**, **SCSS**, **PHP**, **JavaScript**, and **PowerShell**.
+**HTML**, **CSS**, **SCSS**, **PHP**, **JavaScript**, **PowerShell**, **C#**, **.NET**, **VSTO**.
 
 ---
 <p align="center">
@@ -19,47 +19,51 @@ Mon expertise s’étend sur plusieurs langages et outils, notamment :
 
 ## 🚀 Technologies I Use / Technologies que j’utilise
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="24"/> **HTML**  
-  🇬🇧 Basic structure of web pages  
-  🇫🇷 Structure de base des pages web  
+### 🌐 Web
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> **HTML**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> **CSS**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="24"/> **SCSS**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> **PHP**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> **JavaScript**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="24"/> **CSS**  
-  🇬🇧 Styling and layout  
-  🇫🇷 Design et mise en forme  
+### ⚙️ Automation
+- <img src="https://img.icons8.com/color/48/000000/powershell.png" width="24"/> **PowerShell**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="24"/> **SCSS**  
-  🇬🇧 CSS preprocessor for cleaner, maintainable code  
-  🇫🇷 Préprocesseur CSS pour un code plus propre et maintenable  
+### 🪟 Desktop Development (.NET)
+- <img src="https://img.icons8.com/color/48/windows-client.png" width="24"/> **WPF**  
+- <img src="https://img.icons8.com/fluency/48/windows-10.png" width="24"/> **Windows Forms**
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24"/> **PHP**  
-  🇬🇧 Server-side development with OOP/PDO and database management  
-  🇫🇷 Développement côté serveur, POO/PDO et gestion de base de données  
+---
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24"/> **JavaScript**  
-  🇬🇧 Interactivity and client-side functionalities  
-  🇫🇷 Création d’interactivité et de fonctionnalités côté client  
+## 📌 Technologies used for my Outlook Add-in “ChercheDossier”
+## 📌 Technologies utilisées pour mon add-in Outlook “ChercheDossier”
 
-- <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="24"/> **PowerShell**  
-  🇬🇧 Automation and system management (mostly on Windows)  
-  🇫🇷 Automatisation et gestion de systèmes (principalement sur Windows)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> **C# (.NET)**  
+  🇬🇧 Main language for business logic, folder parsing, file management  
+  🇫🇷 Langage principal pour la logique, gestion des dossiers et traitement interne
 
-- <img src="https://img.icons8.com/fluency/48/windows-10.png" alt="Windows Forms" width="24"/> **Windows Forms**  
-  🇬🇧 Rapid GUI development for tools using .NET Forms  
-  🇫🇷 Développement rapide d’interfaces graphiques avec Windows Forms  
+- <img src="https://img.icons8.com/fluency/48/microsoft.png" width="24"/> **VSTO (Visual Studio Tools for Office)**  
+  🇬🇧 Framework used to build the Outlook ribbon and UI integrations  
+  🇫🇷 Utilisé pour développer le ruban Outlook et les intégrations UI
 
-- <img src="https://img.icons8.com/color/48/windows-client.png" alt="WPF" width="24"/> **WPF (Windows Presentation Foundation)**  
-  🇬🇧 Modern GUI with XAML support for richer interfaces  
-  🇫🇷 Interfaces modernes avec support de XAML pour une UX enrichie  
+- <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="24"/> **Outlook Interop**  
+  🇬🇧 Interaction with Outlook folders, favorites, search engine  
+  🇫🇷 Interaction avec les dossiers Outlook, favoris et le moteur de recherche
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> **Git / GitHub**  
+  🇬🇧 Versioning and stable/dev branches  
+  🇫🇷 Gestion des versions et branches stable/dev
+
+- 🧩 **JSON Data Handling**  
+  🇬🇧 Used to store favorites and user configuration  
+  🇫🇷 Utilisé pour stocker les favoris et la configuration utilisateur
 
 ---
 
 ## 🧑‍💻 About Me / À propos de moi
 
-🇬🇧 I’m passionate about web development and strive to build high-performance, intuitive applications.  
-I’m always looking for new challenges to improve my skills and explore new technologies.  
-
-🇫🇷 Je suis passionné par le développement web et je m’efforce de créer des applications performantes et intuitives.  
-Je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et découvrir de nouvelles technologies.
+🇬🇧 I’m passionate about development and I aim to create intuitive, high-performance applications.  
+🇫🇷 Je suis passionné par le développement et j’ai à cœur de créer des applications intuitives et performantes.
 
 ---
 
