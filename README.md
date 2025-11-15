@@ -17,9 +17,7 @@
 </div>
 
 ---
-
-# 🚀 Technologies I Use  
-# 🚀 Technologies que j’utilise  
+# 🚀 Technologies I Use | 🚀 Technologies que j’utilise  
 
 ### 🌐 **Web Development**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26"/> **HTML5**
@@ -45,8 +43,7 @@
 
 ---
 
-# 💬 About Me  
-# 💬 À propos de moi  
+# 💬 About Me | 💬 À propos de moi  
 
 🇬🇧 I enjoy building clean, intuitive and high-performance applications —  
 from web interfaces to desktop tools, automation scripts, and modern UI systems.  
