@@ -1,55 +1,79 @@
+<!-- Badges -->
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/status-active-brightgreen.svg" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=DevTech-Solution&style=for-the-badge&color=blue" />
 </p>
+
+<!-- Title -->
+<h1 align="center">Welcome — Bienvenue 👋</h1>
+
+<p align="center">
+  <em>🇬🇧 Passionate developer — modern, precise, and always learning.<br>
+  🇫🇷 Développeur passionné — moderne, rigoureux et toujours en apprentissage.</em>
+</p>
+
 <div align="center">
-<h1>Welcome - Bienvenue 👋</h1>
+  <img width="55%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fqa3pkZjVsZm9ycGN6d3hvYXVzMWhzcDNqMnhxOW9vb2JpdmNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
 </div>
 
-🇬🇧 I’m a passionate developer focused on web and modern technologies.  
-🇫🇷 Je suis un développeur passionné par le web et les technologies modernes.
+---
 
-My expertise covers several languages and tools, including  
-Mon expertise s’étend sur plusieurs langages et outils, notamment :  
-**HTML**, **CSS**, **SCSS**, **PHP**, **JavaScript**, **PowerShell**, **C#**, **.NET**, **VSTO**.
+# 🚀 Technologies I Use  
+# 🚀 Technologies que j’utilise  
+
+### 🌐 **Web Development**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26"/> **HTML5**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26"/> **CSS3**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26"/> **SCSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26"/> **PHP**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26"/> **JavaScript**
+
+### ⚙️ **Automation & Scripting**
+- <img src="https://img.icons8.com/color/48/000000/powershell.png" width="26"/> **PowerShell**
+
+### 🪟 **Desktop & Windows Development (.NET)**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="26"/> **C#**
+- 🧰 **.NET Framework**
+- <img src="https://img.icons8.com/color/48/windows-client.png" width="26"/> **WPF**
+- <img src="https://img.icons8.com/fluency/48/windows-10.png" width="26"/> **Windows Forms**
+- 🧩 **VSTO (Visual Studio Tools for Office)**  
+- 📦 **JSON** (data handling & configuration)
+
+### 🗃️ **Version Control**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/> **Git**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26"/> **GitHub**
 
 ---
+
+# 💬 About Me  
+# 💬 À propos de moi  
+
+🇬🇧 I enjoy building clean, intuitive and high-performance applications —  
+from web interfaces to desktop tools, automation scripts, and modern UI systems.  
+I love learning, improving, and exploring new technologies every day.
+
+🇫🇷 J’aime créer des applications propres, intuitives et performantes —  
+du web aux outils desktop, en passant par l’automatisation et les interfaces modernes.  
+J’adore apprendre, progresser et découvrir de nouvelles technologies chaque jour.
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-    <img width="50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fqa3pkZjVsZm9ycGN6d3hvYXVzMWhzcDNqMnhxOW9vb2JpdmNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevTech-Solution&show_icons=true&theme=github_dark&hide_border=true" width="55%"/>
 </p>
 
-## 🚀 Technologies I Use / Technologies que j’utilise
-
-### 🌐 Web
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> **HTML**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> **CSS**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="24"/> **SCSS**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="24"/> **PHP**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> **JavaScript**
-
-### ⚙️ Automation
-- <img src="https://img.icons8.com/color/48/000000/powershell.png" width="24"/> **PowerShell**
-
-### 🪟 Desktop Development (.NET)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> **C# (.NET)**  
-- <img src="https://img.icons8.com/color/48/windows-client.png" width="24"/> **WPF**  
-- <img src="https://img.icons8.com/fluency/48/windows-10.png" width="24"/> **Windows Forms**
-
-### 🧩 Additional Tools / Outils complémentaires
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> **Git / GitHub**  
-- 🧩 **JSON** (data handling)  
-- 🧰 **VSTO** (Visual Studio Tools for Office)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTech-Solution&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+</p>
 
 ---
 
-## 🧑‍💻 About Me / À propos de moi
-
-🇬🇧 I’m passionate about development and I aim to create intuitive, high-performance applications.  
-🇫🇷 Je suis passionné par le développement et j’ai à cœur de créer des applications intuitives et performantes.
-
----
-
-## 📊 GitHub Stats
+# 🔗 Contact & Links
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevTech-Solution&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <a href="https://github.com/DevTech-Solution">
+    <img src="https://img.shields.io/badge/GitHub-DevTech--Solution-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
