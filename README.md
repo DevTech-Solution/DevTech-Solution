@@ -54,11 +54,3 @@ du web aux outils desktop, en passant par l’automatisation et les interfaces m
 J’adore apprendre, progresser et découvrir de nouvelles technologies chaque jour.
 
 ---
-
-# 🔗 Contact & Links
-
-<p align="center">
-  <a href="https://github.com/DevTech-Solution">
-    <img src="https://img.shields.io/badge/GitHub-DevTech--Solution-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
