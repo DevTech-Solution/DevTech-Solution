@@ -52,5 +52,3 @@ I love learning, improving, and exploring new technologies every day.
 🇫🇷 J’aime créer des applications propres, intuitives et performantes —  
 du web aux outils desktop, en passant par l’automatisation et les interfaces modernes.  
 J’adore apprendre, progresser et découvrir de nouvelles technologies chaque jour.
-
----
